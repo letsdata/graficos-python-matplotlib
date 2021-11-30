@@ -1,4 +1,4 @@
-# graficos-python-matplotlib
+# Gráficos com Python usando Matplotlib
 
 Este é o repositório do código do vídeo Gráficos com Python usando Matplotlib do Youtube do canal Let's Data.
 
